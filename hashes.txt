@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo me duele
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo me duele** (tu-cuerpo-me-duele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:49:05.358927 | `v1` | `02bbe06e852ea4ff8b735d750f67a9d9692f78d97382bef182f4bcb61fd6aee1` | `e8eb8219f09acf74727d3d71e98e0dbacddca609d2d25077ca13a6766434db08` | `2026-06-20_tu-cuerpo-me-duele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-me-duele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu cuerpo me duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-duele/) |
+| **Get License** | [Secure Licensing Rights for Tu cuerpo me duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-duele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `02bbe06e852ea4ff8b735d750f67a9d9692f78d97382bef182f4bcb61fd6aee1` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
