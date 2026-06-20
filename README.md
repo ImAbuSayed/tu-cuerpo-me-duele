@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-me-duele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu cuerpo me duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-duele/) |
+| **Get License** | [Obtain a Music License for Tu cuerpo me duele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-me-duele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo me duele cuando no estás aquí
+> Esa luna en llamas me hace pensar en ti
+> El ritmo de tu ausencia late dentro de mí
+> Y solo tu fuego puede hacerme sentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
